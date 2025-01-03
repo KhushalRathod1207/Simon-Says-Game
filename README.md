@@ -21,7 +21,7 @@ A simple and interactive web-based Simon Says Game that tests your memory skills
 
 ![image](https://github.com/user-attachments/assets/bd445edd-dc5b-4807-9f1b-3c90e0119a5a)
 
-##  [Live Demo💥]()
+##  [Live Demo💥](https://khushalrathod1207.github.io/Simon-Says-Game/)
 
 ## 📚 Features
 - Responsive design for mobile and desktop screens.
@@ -47,14 +47,15 @@ Follow these steps to set up and run the game locally:
 Clone the repository or download the files:
 
 ```bash
-git clone https://github.com/your-username/simon-says-game.git
+git clone https://github.com/KhushalRathod1207/Simon-Says-Game
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd simon-says-game
+cd Simon-Says-Game
 ```
+
 
 ###🎮 Running the Game
 1. Open the project directory.
@@ -71,17 +72,23 @@ Watch the colored buttons flash in a specific order.
 ### Click the Buttons
 Click the buttons in the same sequence.
 
+
 ### Progress to the Next Level
 If you correctly replicate the sequence, you advance to the next level, where a new color is added.
 
+
 ### Game Over
 If you make a mistake, the game ends, and your score is displayed.
+
+
 
 ## Game Mechanics
 - The game randomly generates a sequence of colors from the available options: red, yellow, green, and blue.
 - The sequence grows longer with each level.
 - The player's goal is to replicate the exact sequence by clicking the corresponding buttons.
 - The game keeps track of your high score.
+
+
 
 ## Customization
 You can customize the game by editing the code:
