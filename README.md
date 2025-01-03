@@ -109,4 +109,4 @@ This project is created and maintained by [Khushal Rathod](https://github.com/Kh
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](LICENSE)
