@@ -21,7 +21,7 @@ A simple and interactive web-based Simon Says Game that tests your memory skills
 
 ![image](https://github.com/user-attachments/assets/bd445edd-dc5b-4807-9f1b-3c90e0119a5a)
 
-##  [Live Demo💥]( https://khushalrathod1207.github.io/Netflix-clone/)
+##  [Live Demo💥]()
 
 ## 📚 Features
 - Responsive design for mobile and desktop screens.
